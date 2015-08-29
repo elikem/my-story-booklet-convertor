@@ -11,16 +11,18 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150827094143) do
+ActiveRecord::Schema.define(version: 20150829210420) do
 
   create_table "jobs", force: :cascade do |t|
     t.integer  "story_id"
     t.string   "username"
     t.string   "email"
     t.string   "idml_url"
-    t.boolean  "status"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.boolean  "status",       default: false
+    t.datetime "created_at",                   null: false
+    t.datetime "updated_at",                   null: false
+    t.boolean  "email_status", default: false
+    t.boolean  "idml_status",  default: false
   end
 
 end
