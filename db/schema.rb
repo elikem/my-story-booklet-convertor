@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150829210420) do
+ActiveRecord::Schema.define(version: 20150830004643) do
 
   create_table "jobs", force: :cascade do |t|
     t.integer  "story_id"
@@ -23,6 +23,7 @@ ActiveRecord::Schema.define(version: 20150829210420) do
     t.datetime "updated_at",                   null: false
     t.boolean  "email_status", default: false
     t.boolean  "idml_status",  default: false
+    t.binary   "idml_file"
   end
 
 end

@@ -14,6 +14,7 @@ gem 'slack-notifier'
 gem 'awesome_print'
 gem 'foreman'
 gem 'bower-rails'
+gem 'httparty'
 
 group :development, :test do
   gem 'byebug'
