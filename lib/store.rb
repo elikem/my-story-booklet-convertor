@@ -21,9 +21,14 @@ class Store
     # check if user folder exists and create if it doesn't
     FileUtils.mkdir_p "#{users_folder}/#{username}"
 
-    # create download file
-    File.open("#{users_folder}/#{username}/#{username}_#{publication_id}.idml", 'wb') do |f|
-      f.write(open("http://mystorybooklet.com/api/stories/elikem/idml").read)
+    # download file if it does not exist
+    if File.exists? "#{users_folder}/#{username}/#{username}_#{publication_id}.idml"
+      puts 'File already exists.'
+    else
+      puts 'File does not exist.'
+      File.open("#{users_folder}/#{username}/#{username}_#{publication_id}.idml", 'wb') do |f|
+        f.write(open("http://mystorybooklet.com/api/stories/elikem/idml").read)
+      end
     end
   end
 
