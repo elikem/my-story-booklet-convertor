@@ -1,6 +1,7 @@
 class JobsController < ApplicationController
   def index
-    # render json: Parse.published_stories
+    @queued_jobs = Job.where(status: false)
+    @processed_jobs = Job.where(status: true)
   end
 
   def get_published_stories
