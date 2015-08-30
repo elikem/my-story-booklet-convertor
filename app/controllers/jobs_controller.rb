@@ -3,9 +3,15 @@ class JobsController < ApplicationController
     # render json: Parse.published_stories
   end
 
-  def queued_stories
+  def get_published_stories
+    stories = Store.published_stories
+
+    render json: stories
   end
 
-  def processed_stories
+  private
+
+  def story_params
+    params.require(:job).permit(:id, :story_id, :publication_id, :username, :email)
   end
 end
