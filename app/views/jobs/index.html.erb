@@ -26,6 +26,7 @@
                         <th>Username</th>
                         <th>Email</th>
                         <th>Publication ID</th>
+                        <th>IDML File</th>
                     </tr>
 
                     <% @queued_jobs.each do |job| %>
@@ -34,6 +35,7 @@
                             <td><%= job.username %></td>
                             <td><%= job.email %></td>
                             <td><%= job.publication_id %></td>
+                            <td><a href="#">Download</a></td>
                         </tr>
                     <% end %>
                 </table>
