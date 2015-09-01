@@ -20,6 +20,10 @@ class InDesign
         exit_status = wait_thr.value
         if exit_status.success?
           "Passed: IDML to PDF -- Job #{job_id}"
+
+          # Update IDML status
+          job.pdf_status = true
+          job.save
         else
           abort "Failed: IDML to PDF -- Job #{job_id} -- #{cmd}"
         end
@@ -27,8 +31,11 @@ class InDesign
     end
   end
 
-  def self.process_next_job
-    job = Job.where(nil).order(created_at: :asc).first
-    InDesign.new.idml_to_pdf(job.id)
+  def self.process_next_pdf_job
+    job = Job.where(pdf_status: false).order(created_at: :asc).first
+
+    if job
+      InDesign.new.idml_to_pdf(job.id)
+    end
   end
 end
