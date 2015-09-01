@@ -27,7 +27,7 @@ class Store
     else
       puts 'File does not exist.'
       File.open("#{users_folder}/#{username}/#{username}_#{publication_id}.idml", 'wb') do |f|
-        f.write(open("http://mystorybooklet.com/api/stories/elikem/idml").read)
+        f.write(open("http://mystorybooklet.com/api/stories/#{username}/idml").read)
       end
     end
   end

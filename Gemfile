@@ -15,6 +15,7 @@ gem 'awesome_print'
 gem 'foreman'
 gem 'bower-rails'
 gem 'httparty'
+gem 'thin'
 
 group :development, :test do
   gem 'byebug'

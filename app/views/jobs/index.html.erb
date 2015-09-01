@@ -8,12 +8,9 @@
     <div class="col-lg-12">
 
         <ul class="nav nav-tabs">
-            <li class="active">
-                <a  href="#queued_jobs" data-toggle="tab">Queued Jobs</a>
-            </li>
-            <li>
-                <a href="#processed_jobs" data-toggle="tab">Processed Jobs</a>
-            </li>
+            <li class="active"><a  href="#queued_jobs" data-toggle="tab">Queued Jobs</a></li>
+            <li><a href="#partially_processed_jobs" data-toggle="tab">Partially Processed Jobs</a></li>
+            <li><a href="#processed_jobs" data-toggle="tab">Processed Jobs</a></li>
         </ul>
 
         <div class="tab-content ">
@@ -26,7 +23,6 @@
                         <th>Username</th>
                         <th>Email</th>
                         <th>Publication ID</th>
-                        <th>IDML File</th>
                     </tr>
 
                     <% @queued_jobs.each do |job| %>
@@ -35,11 +31,37 @@
                             <td><%= job.username %></td>
                             <td><%= job.email %></td>
                             <td><%= job.publication_id %></td>
-                            <td><a href="#">Download</a></td>
                         </tr>
                     <% end %>
                 </table>
             </div>
+
+            <div class="tab-pane" id="partially_processed_jobs">
+                <br>
+
+                <table class="table table-striped table-bordered table-hover">
+                <tr>
+                  <th>ID</th>
+                  <th>Username</th>
+                  <th>Email</th>
+                  <th>Publication ID</th>
+                  <th>Email Status</th>
+                  <th>IDML Status</th>
+                </tr>
+
+                <% @partially_processed_jobs.each do |job| %>
+                    <tr>
+                      <td><%= job.story_id %></td>
+                      <td><%= job.username %></td>
+                      <td><%= job.email %></td>
+                      <td><%= job.publication_id %></td>
+                      <td><%= job.email_status %></td>
+                      <td><%= job.idml_status %></td>
+                    </tr>
+                <% end %>
+              </table>
+            </div>
+
             <div class="tab-pane" id="processed_jobs">
                 <br>
 
@@ -49,6 +71,7 @@
                   <th>Username</th>
                   <th>Email</th>
                   <th>Publication ID</th>
+                  <th>Status</th>
                 </tr>
 
                 <% @processed_jobs.each do |job| %>
@@ -57,13 +80,12 @@
                       <td><%= job.username %></td>
                       <td><%= job.email %></td>
                       <td><%= job.publication_id %></td>
+                      <td><%= job.status %></td>
                     </tr>
                 <% end %>
               </table>
             </div>
         </div>
-
-
 
         <!--<nav class="pull-right">-->
             <!--<ul class="pagination">-->
