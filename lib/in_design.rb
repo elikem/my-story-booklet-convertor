@@ -21,7 +21,7 @@ class InDesign
         if exit_status.success?
           "Passed: IDML to PDF -- Job #{job_id}"
 
-          # Update IDML status
+          # Update PDF status
           job.pdf_status = true
           job.save
         else
@@ -36,6 +36,34 @@ class InDesign
 
     if job
       InDesign.new.idml_to_pdf(job.id)
+      puts "Processed job for #{job.username}"
+    else
+      puts "No PDF jobs exist"
+    end
+  end
+
+  def pdf_to_email(job_id)
+    job = Job.find(job_id)
+    users_folder = "#{Rails.root}/storage/users"
+    file_name = "#{job.username}_#{job.publication_id}"
+    user_file = "#{users_folder}/#{job.username}/#{file_name}.pdf"
+
+    if File.exists? user_file
+      Mailer.send_pdf_to_user(job_id).deliver_now
+
+      # Update Email status
+      job.email_status = true
+      job.save
+    end
+  end
+
+  def self.process_next_email_job
+    job = Job.where(email_status: false).order(created_at: :asc).first
+
+    if job
+      InDesign.new.pdf_to_email(job.id)
+    else
+      puts "No Email jobs exist"
     end
   end
 end
