@@ -2,7 +2,7 @@ class InDesign
   require 'fileutils'
   require 'open3'
 
-  def self.idml_to_pdf(job_id)
+  def idml_to_pdf(job_id)
     job = Job.find(job_id)
     users_folder = "#{Rails.root}/storage/users"
     file_name = "#{job.username}_#{job.publication_id}"
@@ -25,5 +25,10 @@ class InDesign
         end
       end
     end
+  end
+
+  def self.process_next_job
+    job = Job.where(nil).order(created_at: :asc).first
+    InDesign.new.idml_to_pdf(job.id)
   end
 end
