@@ -17,6 +17,8 @@ gem 'bower-rails'
 gem 'httparty'
 gem 'thin'
 gem 'chronic_duration'
+gem 'lita'
+gem 'lita-slack'
 
 group :development, :test do
   gem 'byebug'
