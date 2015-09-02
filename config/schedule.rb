@@ -36,3 +36,7 @@ end
 every 5.minute do
   rake "process:get_processed_jobs"
 end
+
+every 2.weeks do
+  rake "log:clear"
+end
