@@ -23,6 +23,7 @@
                         <th>Username</th>
                         <th>Email</th>
                         <th>Publication ID</th>
+                        <th>Time Created</th>
                     </tr>
 
                     <% @queued_jobs.each do |job| %>
@@ -31,6 +32,7 @@
                             <td><%= job.username %></td>
                             <td><%= job.email %></td>
                             <td><%= job.publication_id %></td>
+                            <td><%= job.created_at.strftime("%d %b %H:%M:%S %p") %></td>
                         </tr>
                     <% end %>
                 </table>
@@ -46,7 +48,8 @@
                   <th>Email</th>
                   <th>Publication ID</th>
                   <th>Email Status</th>
-                  <th>IDML Status</th>
+                  <th>PDF Status</th>
+                  <th>Time Updated</th>
                 </tr>
 
                 <% @partially_processed_jobs.each do |job| %>
@@ -57,6 +60,7 @@
                       <td><%= job.publication_id %></td>
                       <td><%= job.email_status %></td>
                       <td><%= job.pdf_status %></td>
+                      <td><%= job.updated_at.strftime("%d %b %H:%M:%S %p") %> (<%= ChronicDuration.output((job.updated_at - job.created_at).floor, format: :short) %> ago)</td>
                     </tr>
                 <% end %>
               </table>
@@ -72,6 +76,7 @@
                   <th>Email</th>
                   <th>Publication ID</th>
                   <th>Status</th>
+                  <th>Time Updated</th>
                 </tr>
 
                 <% @processed_jobs.each do |job| %>
@@ -81,6 +86,7 @@
                       <td><%= job.email %></td>
                       <td><%= job.publication_id %></td>
                       <td><%= job.status %></td>
+                      <td><%= job.updated_at.strftime("%d %b %H:%M:%S %p") %> (<%= ChronicDuration.output((job.updated_at - job.created_at).floor, format: :short) %> ago)</td>
                     </tr>
                 <% end %>
               </table>

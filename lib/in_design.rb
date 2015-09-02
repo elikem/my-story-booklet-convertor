@@ -19,13 +19,13 @@ class InDesign
 
         exit_status = wait_thr.value
         if exit_status.success?
-          "Passed: IDML to PDF -- Job #{job_id}"
+          "#{Time.now} -- Passed: IDML to PDF -- Job ##{job_id}"
 
           # Update PDF status
           job.pdf_status = true
           job.save
         else
-          abort "Failed: IDML to PDF -- Job #{job_id} -- #{cmd}"
+          abort "#{Time.now} -- Failed: IDML to PDF -- Job ##{job_id}"
         end
       end
     end
@@ -36,9 +36,10 @@ class InDesign
 
     if job
       InDesign.new.idml_to_pdf(job.id)
-      puts "Processed job for #{job.username}"
+      puts "#{Time.now} -- Processed job for #{job.username}"
     else
-      puts "No PDF jobs exist"
+      puts ''
+      puts "#{Time.now} -- No PDF jobs exist"
     end
   end
 
@@ -63,7 +64,24 @@ class InDesign
     if job
       InDesign.new.pdf_to_email(job.id)
     else
-      puts "No Email jobs exist"
+      puts ''
+      puts "#{Time.now} -- No Email jobs exist"
     end
+  end
+
+  def self.find_processed_jobs
+    jobs = Job.where('(email_status = ? and pdf_status = ?) and status = ?', true, true, false)
+
+    jobs.each do |job|
+      job.status = true
+      job.save
+    end
+  end
+
+  def self.get_processed_jobs
+    prod = system('curl http://localhost/jobs/get_published_stories')
+
+    # Accommodate development server environment
+    system('curl http://localhost:3000/jobs/get_published_stories') unless prod
   end
 end

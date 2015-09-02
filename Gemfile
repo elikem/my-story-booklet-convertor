@@ -16,6 +16,7 @@ gem 'foreman'
 gem 'bower-rails'
 gem 'httparty'
 gem 'thin'
+gem 'chronic_duration'
 
 group :development, :test do
   gem 'byebug'

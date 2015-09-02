@@ -4,7 +4,7 @@ class Mailer < ApplicationMailer
   def send_pdf_to_user(job_id)
     @job = Job.find(job_id)
     @file = "#{Rails.root}/storage/users/#{@job.username}/#{@job.username}_#{@job.publication_id}.pdf"
-    @file_name = "#{@job.username}_#{@job.publication_id}"
+    @file_name = "#{@job.username}_#{@job.publication_id}.pdf"
 
     attachments[@file_name] = { mime_type: 'application/x-gzip', content: File.read(@file)  }
 

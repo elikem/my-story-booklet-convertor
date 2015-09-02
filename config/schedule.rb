@@ -28,3 +28,11 @@ end
 every 1.minute do
   rake "process:next_email"
 end
+
+every 5.minute do
+  rake "process:find_processed_jobs"
+end
+
+every 5.minute do
+  rake "process:get_processed_jobs"
+end
