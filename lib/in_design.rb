@@ -19,13 +19,17 @@ class InDesign
 
         exit_status = wait_thr.value
         if exit_status.success?
-          "#{Time.now} -- Passed: IDML to PDF -- Job ##{job_id}"
-
           # Update PDF status
           job.pdf_status = true
           job.save
+
+          message = "#{Time.zone.now.localtime} -- Processed PDF Job ##{job.id} for #{job.username}"
+          puts message
+          SLACK_NOTIFIER.ping message
         else
-          abort "#{Time.now} -- Failed: IDML to PDF -- Job ##{job_id}"
+          message = "#{Time.zone.now.localtime} -- Failed PDF Job ##{job_id}  for #{job.username}"
+          SLACK_NOTIFIER.ping message
+          abort message
         end
       end
     end
@@ -36,10 +40,6 @@ class InDesign
 
     if job
       InDesign.new.idml_to_pdf(job.id)
-      puts "#{Time.now} -- Processed job for #{job.username}"
-    else
-      puts ''
-      puts "#{Time.now} -- No PDF jobs exist"
     end
   end
 
@@ -55,6 +55,10 @@ class InDesign
       # Update Email status
       job.email_status = true
       job.save
+
+      message = "#{Time.zone.now.localtime} -- Emailed PDF Job ##{job.id} to #{job.username}"
+      puts message
+      SLACK_NOTIFIER.ping message
     end
   end
 
@@ -63,9 +67,6 @@ class InDesign
 
     if job
       InDesign.new.pdf_to_email(job.id)
-    else
-      puts ''
-      puts "#{Time.now} -- No Email jobs exist"
     end
   end
 
@@ -79,9 +80,15 @@ class InDesign
   end
 
   def self.get_processed_jobs
-    prod = system('curl http://localhost/jobs/get_published_stories')
+    message = "#{Time.zone.now.localtime} -- Checking for processed jobs"
+    puts ''
+    puts message
+    puts ''
 
-    # Accommodate development server environment
-    system('curl http://localhost:3000/jobs/get_published_stories') unless prod
+    get_published_stories = system('curl http://localhost/jobs/get_published_stories')
+    if get_published_stories
+      SLACK_NOTIFIER.ping message
+    end
+      SLACK_NOTIFIER.ping 'Unable to reach server for new jobs'
   end
 end
