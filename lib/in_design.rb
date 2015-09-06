@@ -23,11 +23,11 @@ class InDesign
           job.pdf_status = true
           job.save
 
-          message = "#{Time.zone.now.localtime} -- Processed PDF Job ##{job.id} for #{job.username}"
+          message = "#{Time.zone.now.localtime.strftime('%Y-%m-%d %H:%M:%S')} -- Processed PDF Job ##{job.id}"
           puts message
           SLACK_NOTIFIER.ping message
         else
-          message = "#{Time.zone.now.localtime} -- Failed PDF Job ##{job_id}  for #{job.username}"
+          message = "#{Time.zone.now.localtime.strftime('%Y-%m-%d %H:%M:%S')} -- Failed PDF Job ##{job_id}"
           SLACK_NOTIFIER.ping message
           abort message
         end
