@@ -2,304 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="105f5f10-77f0-4868-aac7-366d635996e8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/morrisjs/spec/viz/exemplary/area0-b1cff3827959a22c79709d59cd50334061ff073e0a838605fe44bca8eee5d223.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/examples/navigate/arrow-down-2d2322bbaa72dfa5dbcffc75e313fe3741e119ccb6c92d375a411b196bcc4212.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/examples/navigate/arrow-left-dad4e5ef2abad5411dfe55ee97c22217fffb684a323052db92d169e303c76c94.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/examples/navigate/arrow-right-52ba0ca467d7b5e8c1282819d843b9aefbe8c0b33363d6ab8656868cbd24c317.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/examples/navigate/arrow-up-dfaf938e53d89fda4111681b7d4fed880efb2049057de72883337792ac1fa92f.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/examples/background-51a96b3e3d58c08ccc87fb7d7a41954802c5e8a11559ffec79209254268a72cb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/morrisjs/spec/viz/exemplary/bar0-1287f2a58b37a302323a233f1ea17568154a46edb5b836dcd410219bfc38adc1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fontawesome-webfont-199411f659f41aaccb959bacb1b0de30e54f244352a48c6f9894e65ae0f8a9a1.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/font-awesome/fonts/fontawesome-webfont-199411f659f41aaccb959bacb1b0de30e54f244352a48c6f9894e65ae0f8a9a1.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fontawesome-webfont-4d6eb9e9d852a2a6f74e7c428456a2f07fc63a1613d10192d8ed3401d9da5ffa.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/font-awesome/fonts/fontawesome-webfont-4d6eb9e9d852a2a6f74e7c428456a2f07fc63a1613d10192d8ed3401d9da5ffa.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fontawesome-webfont-e511891d3e01b0b27aed51a219ced5119e2c3d0460465af8242e9bff4cb61b77.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/font-awesome/fonts/fontawesome-webfont-e511891d3e01b0b27aed51a219ced5119e2c3d0460465af8242e9bff4cb61b77.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/dist/fonts/glyphicons-halflings-regular-13634da87d9e23f8c3ed9108ce1724d183a39ad072e73e1b3d8cbf646d2d0407.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/fonts/glyphicons-halflings-regular-13634da87d9e23f8c3ed9108ce1724d183a39ad072e73e1b3d8cbf646d2d0407.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/dist/fonts/glyphicons-halflings-regular-a26394f7ede100ca118eff2eda08596275a9839b959c226e15439557a5a80742.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/fonts/glyphicons-halflings-regular-a26394f7ede100ca118eff2eda08596275a9839b959c226e15439557a5a80742.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/dist/fonts/glyphicons-halflings-regular-e395044093757d82afcb138957d06a1ea9361bdcf0b442d06a18a8051af57456.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/fonts/glyphicons-halflings-regular-e395044093757d82afcb138957d06a1ea9361bdcf0b442d06a18a8051af57456.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/examples/image/hs-2004-27-a-large-web-41ae9efe794dc582895fff11a2b4774939c6a61729dba8ee40d4dd74e096cb25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/holderjs/test/image-9fac6c7cd0e5f32d752b68d341c08d8a3340165c1ec707eb6144a9073bc0df47.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/morrisjs/spec/viz/exemplary/line0-27e35996ffa14a6d37edaf0976782512749263bec00b5fc47962da2a158833d3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/bootstrap/images/sort_asc-595704c3f3cf4cb65c7d9c8508a99e7480e150095473faed31a07c21b13389b8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/foundation/images/sort_asc-595704c3f3cf4cb65c7d9c8508a99e7480e150095473faed31a07c21b13389b8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/images/sort_asc-595704c3f3cf4cb65c7d9c8508a99e7480e150095473faed31a07c21b13389b8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/bootstrap/images/sort_asc_disabled-a65b8f4f84d6427a81c360282fc5394d51bf99dada5f159e6aa0fce3c396825c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/foundation/images/sort_asc_disabled-a65b8f4f84d6427a81c360282fc5394d51bf99dada5f159e6aa0fce3c396825c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/images/sort_asc_disabled-a65b8f4f84d6427a81c360282fc5394d51bf99dada5f159e6aa0fce3c396825c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/bootstrap/images/sort_both-3e016c23ae51417382b640ae2d19eb48047532c37ad53894bd185586559ccffb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/foundation/images/sort_both-3e016c23ae51417382b640ae2d19eb48047532c37ad53894bd185586559ccffb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/images/sort_both-3e016c23ae51417382b640ae2d19eb48047532c37ad53894bd185586559ccffb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/bootstrap/images/sort_desc-d08ed0e21f187dd309030d465224da8085119a15a17d616ba0e477bb50c6f10d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/foundation/images/sort_desc-d08ed0e21f187dd309030d465224da8085119a15a17d616ba0e477bb50c6f10d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/images/sort_desc-d08ed0e21f187dd309030d465224da8085119a15a17d616ba0e477bb50c6f10d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/bootstrap/images/sort_desc_disabled-6c0f0c1b21ef6807057afc8ddc1a925d1dbd21cb11e9270ec84ff4ac40d9a3fa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/foundation/images/sort_desc_disabled-6c0f0c1b21ef6807057afc8ddc1a925d1dbd21cb11e9270ec84ff4ac40d9a3fa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/images/sort_desc_disabled-6c0f0c1b21ef6807057afc8ddc1a925d1dbd21cb11e9270ec84ff4ac40d9a3fa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/morrisjs/spec/viz/exemplary/stacked_bar0-4ab565a913a08b1428b000f172cfb58f52699c41b003ada137833b2db1649455.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/.sprockets-manifest-f6c295b745a0cca9cc0d5aa4a5c37003.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/data/Data-dbfbc8a1340945ffbaed4248c88d7a44ab4d87ff191b3d7fbdbba503ee3a7213.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/Gruntfile-07730c31311f5803dd847fa77e19560e1e054badd2e6537a52a0f3637fe59ba6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/filtering/row-based/TableTools.ShowSelectedOnly-a331594d48acd57e54df0367379bd87246d67c3c6b46ffe9c883dff9d448cd0b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/effects/Tween-73d66562fbe728b8f0f77cade3e80c24cb40f8e007387b496d55f25eb0995dc7.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/filtering/type-based/accent-neutralise-ab1d06dd38410a6a4a289b1499b148961ced1da8756f8f51f778eed7d0b34e6f.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/data/accepts-1b2c3f93bdc2c785e4f0c4adc2fc7556222256d277639ad72d9bc0ae7b878ae1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/core/access-47e5ee2cb3b62fd294004d2b7e9ddae6c7a22f72e03f0302bea51cb259875e48.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/css/addGetHookIf-ae9d8fb2d7642cbe37b21c8a73767838d421ced4494616f556d5537a33bbd4cd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/js/affix-0daa7c73aa006bca4cd46bedb1eea7ad79a9d09215d451180db145ec9fd71d06.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/ajax-28e798fb095e9ad7af61f76484c50681c976ab503c68155767dbf0f04c18dfb0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/event/ajax-727f5aa9741d8fc860cf653ce8a8b9ea9c5b6a6f4221dcc1d0a45d9dc3c0996b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/js/alert-bf23df3d3e76db695c83f8d0c17f13a1f8f830ff660661e52a515f5dac072ab8.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/event/alias-2fb6913f4fa4362da9236ef98bbe48738f62ea28bda6d20d6ca129cd884cfc6c.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/alt-string-d37a5ffad7626248560070fa259705dcbdf4336a6107f0095d946c539395323b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/exports/amd-cda392335de606046896fe0d493f3896af158f41f4edc13d53be11a7f2581322.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/effects/animatedSelector-5c2c91c1319a890a7b4834480277006f9f4979b727888c1f85fa2bb1fa9ceb93.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/anti-the-b7f5ea9203fc7bb5d663cb63aec6aa5b8c3d278aeff1805e48bbe4388da6a3ed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-45cb44fa2900f328de511c1360003c831a861f97efe9791d79a681c62fc66714.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-5ea8868f55b49a125e769e7c2deeb2e3e580b96dfd61ad5a7b4b7cea37281b65.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-eea7a02d66e1902576d23227121aef013f1e72acad34515d15091a97fe2d3645.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-f5279a9178ccd77ebba67330182324cd44c936e82585f2a76692621c6e4e6432.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/attributes/attr-995fdd7eea665f93a4b95ec64f4de2ed0f73f6c4559888b7b54474c04ef7a458.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/attributes-a2d98a7f384e793662b4d09e529cc0ea9a11bf42f87242a6a9715204b07a32a5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/holderjs/src/augment-99567a1eef694ef972c21f9aec896c6437b197def4a0c534e22b7d469ee902bd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/average()-b2bfb8fa8d7fafe5689ef25017617a538449f0b1001fe4499dc512ef54a37005.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/dist/css/bootstrap-27984ab26f03e413ac387eaa9ac7f5844e9ebe5ebc1ce6e2ee4747ceaeb23cb5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/dist/js/bootstrap-3de7d58d357870a94b93579cd976b7286280c37edf62b745d6c3a5ec79c55c33.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap-social/bootstrap-social-c32db8d66d86b71e0d4778482eeaf566c8d58311a02122c365fd7e2f90624718.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/dist/css/bootstrap-theme-4caf9aa3d15472c4a951328563208769c4bd6987b8e5df8700acb67fc4e984fe.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/dist/css/bootstrap-theme.min-e036c0676b6e9ccbb6f17516ee4ec461b6a165ceae8ec4c49c3b96fa0c0f86b0.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/dist/js/bootstrap.min-1b53728cf12dac66b0f63fd5bba477182b2092248a5da82d4bc8b0ea50a211cf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/dist/css/bootstrap.min-3c489ea49217d1731e0dc838b9453f2319c8b620361eccffa17df67f02ca63f5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/grunt/bs-commonjs-generator-eea233068b355bfebb00d3d57a538a5dac4b7c031f17774ed93f7b0dbaeac148.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/grunt/bs-glyphicons-data-generator-1615416e5d68f66117dc09d0723ff2707c8d51f0fc5e6f0508b810637f521410.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/grunt/bs-lessdoc-parser-903cdcabd315339ea32231d0ee1fde4e1e1256db63ccc2769638e38dbcacb41a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/grunt/bs-raw-files-generator-1baa19597c615aa1cd224f76a1e27978387867059eeae7421aa8eca6b9d78f9c.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/js/button-3c9249a7139f65d809944547985d69981212cd13a058ca098b78ea4581435a4b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/callbacks-9c8e815a9e053dfbedbcb152968bad4472c1ab58ee2fa07da7bc6c58711e61b2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/js/carousel-d6261b466d418958dea14b55d0bc9cbeb605cebd51b1abb6a2b11356613a05a6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/chinese-string-1553e3a9b16ddb42055e35342f6ac3908a3ad70983b6d234ea0e9f0b24e4558a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/attributes/classes-a7c208cd8f5a6e407a70ffa18c7b5af2d311c9bde87c78131ae00c7ee7ddf2a6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/js/collapse-56f176ba3612844d70bd1d9c4111338e27d7c18ea97c016f18f7c6a524500c4f.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/column().title()-217bddb8bd2538f5fdda56f296d76e7eca13f4de2e38b5164c95e6d1a19ec3ef.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/columns().order()-4d0f0f78d8d221c29f488dc9f406717229220ed7f3a750aa974e5efbccb68944.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/core-de1219a8e606653c440610ea7d5b499d6b8fefa038b0da7f19bb72297fc92815.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/css-40b4cb6e215d2b9ecc271131b738ee746a37254d75358b8be9c02652713986be.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/css/var/cssExpand-aa07097d0f6aecda51b5e02956e31bb30ca766b1fbc0e199a0645abba86ad051.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/css/curCSS-094dea11d5388f524555c59302f4cab5fed43e823e3e9374a36f9bf223011d20.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/currency-6d9616917f41b340ef5a0335674d69a56e994b0086f1a67ebe0c3fc4e1a70f14.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/type-detection/currency-e941339772598de91a42402078ef100ce049a1c5d5377f3bdcfb9ab1f9b28e7a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/data-bb2c9ab950e9fdeed36b6aaa64662f760e5c39db71267aba7e1571c74d02ea13.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/features/alphabetSearch/dataTables.alphabetSearch-302a74d421c36bf482db2e20e5705464655ac0575c60cd3da1eadb7541825c68.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/features/alphabetSearch/dataTables.alphabetSearch-a558040c8c33f52a9fbb6e41fe89ac83ba2a6ceba2a6ec81635afd8e6f53e238.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/features/alphabetSearch/dataTables.alphabetSearch.min-c5c500069f24e8ec71c3c78c072d7980e07ab66be6440cd1c5dcc8665ab6b91a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/css/dataTables.bootstrap-0d9a2357c8e82c860ad781298268a6ff60b4dbffbd25e01cc463679cd3869e3a.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/bootstrap/1/dataTables.bootstrap-348309211935d4d7e4750ddb25269e9608600bb10fc8621938af43c4a0d24835.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/js/dataTables.bootstrap-416358779bd90e156c187482da95be0cbd1226ed3c867e715c7225e34391aec7.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap-5673225622c9154d215889796a29be542674e8ff2d91885dab05a656494ae3fa.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/bootstrap/2/dataTables.bootstrap-720c335e25744b106ef90b33f216efc3a594fa470cdf642d2631998e805f1903.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/bootstrap/1/dataTables.bootstrap-809dd346f7b32f4c70c811cdbd42f7a63ec6fcc75579a434b17f2bd554c188c5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap-8e63768668b072da23aa4c7ddac28d181dd4e73b65441628ccadef84e94b6e97.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/bootstrap/2/dataTables.bootstrap-cabeb3eef4922bd12cc24d6afe4b9ff96f7b48aabc773a3750081134d47add1a.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/css/dataTables.bootstrap.min-0d9a2357c8e82c860ad781298268a6ff60b4dbffbd25e01cc463679cd3869e3a.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.min-1283cf514d9f649b56b0cee527eed74f98504661bd487c3d1da5c8ff79b4b593.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/bootstrap/2/dataTables.bootstrap.min-808f22722db44e7f01787871b703df7f23756ce63cc5579f082e0e3f4ad94cc7.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/js/dataTables.bootstrap.min-fa95bb651f6c7953ad7997984306842fc71acd9e7bb7114a2f5bdcea879b0609.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/font-awesome/dataTables.fontAwesome-b18e6407ba7108ef9f2933960c5f1409e3d4facbb0fd97ef49f174d408c494eb.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/js/dataTables.foundation-1ac01f894eb1e7ffe3d8601c0ef5b13f9766111d5554da9583d6af643e4b1cb3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/foundation/dataTables.foundation-4173b95f2c99463643339fb0b1b6d56bedc7e8a2bd5e412003b69b63a8f501dd.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/css/dataTables.foundation-65ccbd01fc2382827cdbd7c5e6d648419c7dbcf5bdecbe7faeebd6087871b3dc.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/foundation/dataTables.foundation-a951e1071837293af4e78bf1d37932ce4e2d0a99d6bb094d5687dfe122389269.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/foundation/dataTables.foundation.min-653f12b78d37276abd1ede8b5ffdd19b2e72eab450a0881b1b78ee2af6028dca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/css/dataTables.foundation.min-65ccbd01fc2382827cdbd7c5e6d648419c7dbcf5bdecbe7faeebd6087871b3dc.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/js/dataTables.foundation.min-fcbfe480ac7debdab0ec4551af79c2f7e75f4c1157f74816ac5a36b82478d8cd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/pagination/jPaginator/dataTables.jPaginator-c04ca0584ae3b8f7c70e5add40828000f563449e82dba92f308f4f8f84a98737.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/jqueryui/dataTables.jqueryui-237a231032c661c6f240196b9154a5ff3d8be47071ad8d97590132fe70f53df7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/jqueryui/dataTables.jqueryui-275aa75371790c5832c99a9d7b82a53b4f697f89a3fcba57eed4085ef6165930.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/js/dataTables.jqueryui-275aa75371790c5832c99a9d7b82a53b4f697f89a3fcba57eed4085ef6165930.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/css/dataTables.jqueryui-cb1a6806ce4d625e7fc98465814020c1d7f0a66dab333540e9024be3e09a70f6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/integration/jqueryui/dataTables.jqueryui.min-432b3e4690374bc426f980b74c8296ef0dd5dafd88e9e9532d8ce029cfbb96c9.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/js/dataTables.jqueryui.min-432b3e4690374bc426f980b74c8296ef0dd5dafd88e9e9532d8ce029cfbb96c9.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/css/dataTables.jqueryui.min-cb1a6806ce4d625e7fc98465814020c1d7f0a66dab333540e9024be3e09a70f6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/features/lengthLinks/dataTables.lengthLinks-9cef8244cb3c9babac4fb3858a8251911b0894f7b2b7e6d287b3a223d6a9683c.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/features/lengthLinks/dataTables.lengthLinks-f10c96edc00ae8c6795af06d692f204aa6aa552638c5aa6999753a6e1f3c9219.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/features/lengthLinks/dataTables.lengthLinks.min-8132e312e1106d420a3be14f519d6beb246157440fd3a64d627b68f2cdf1916b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-responsive/js/dataTables.responsive-e1e908af91bb8b9b1a22c3232d08f1ed310bf3c8e9107e8cfcc8b64dd8a90df6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/features/searchHighlight/dataTables.searchHighlight-0ae4f2ef2dd747c0765da86072a97c954345c0da89cdd524a5d7878f2e641e78.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/features/searchHighlight/dataTables.searchHighlight-89556dda3f51f0e59992b2cc8a0ad83dcf69f57cf7b2ec42c2b494783454436c.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/features/searchHighlight/dataTables.searchHighlight.min-946be595cb00e90b005a7c17fd598a4ddf585607f5b2b2192e8b7bff5577fd81.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/data/var/data_priv-b3d62f197cd2c7e15db4a427b84312cd9b7695908f8fdb0d0fc1cafc3e98b2dc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/data/var/data_user-b3d62f197cd2c7e15db4a427b84312cd9b7695908f8fdb0d0fc1cafc3e98b2dc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/date-dd-MMM-yyyy-3c5f2ef5debba781f4bbd26ab65dd240b51e1faa7a790352ebb0507fd28b4afe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/date-de-7ddad017f7fd1c07656b1eb75168704498f01959ce32d24194dcd524c03a86f3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/examples/axes-time-zones/date-e004a011c792816a524d70d3eff605efb11f73443fda33f8b2daee97cf5630c5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/date-eu-f5a7980cb91b6dea46b7b3af0428f3e5660659900b528258d715a57a1b6b0cb1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/date-euro-7a6f155eb6ac335c133122adbb8b948e2ddefe36d984bac77490987c539c960e.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/type-detection/date-uk-b2748f2d6711a84d33435d77798691ebc30f4a7c37cdbfde0622d362800d343a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/date-uk-e96d8bfb5ad2a51da2a4e053fd856635c12ed31768e719a970b5decd1037783a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/datetime-moment-2d75db6c7101ee622d8c1c4098008cd3db2cff08338cdc56edca56a2f351ff98.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/datetime-us-d76923610495fb98727bfef7611a47215ccecb80dd382f4faca411f337ad337e.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/css/defaultDisplay-03c287df0c563505e249e88d13eb6e49fac1eb7661cc80ab21461bef2965ac4d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/deferred-b49578310a6e40231791074004ca8444aa460f13f828a22883880354a3b54abe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/deprecated-499daa2cca558c8415fafb21494bef0ebd1f6b7aa05b64c4969c6d165b3ac7de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/dimensions-7b1d663e6d7c1399bbe123e4744678239d16f1a883415b6021c34906c53f62d1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/custom-data-source/dom-checkbox-f30f3c6f158f3fb548a564551d9a65613e7c11d40aa2a84d4ea82808747929a8.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/custom-data-source/dom-select-5a408113b6536040f9b609af5367df85bce1002e70a4a18664d27989a2ae243e.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/custom-data-source/dom-text-8f1673305b009ef96a2ed1b2f83a218cce01bdcd78f1f3073412f8adc3bd088a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/js/dropdown-9909c43539af0ab3c8bb1ab3bf961bad5e66e98aa5bfae1316b53ab1bde9a656.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/effects-06ca5e1dd72a441e5ac3090b6327b929896963f12c33bb4a3b2b47fdc2d48580.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/pagination/ellipses-ea1b7f2396cf7b8832b45bb607da4b4c96a15051c0ab55a4637ac0338aacd9ef.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/enum-b3cfc1b14dcfa471425002bdbd60549051a3cf7c3878737f601e212931e94e68.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/event-868aace7954cf646cdcda698c9ef3ded6e9f531185533e09cb5e13b6c4a04c9c.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/examples/examples-562895dca6b24e9931981631a010b78c575ac684381559a55c5e665115c69726.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/excanvas-99af3b93d7ece20ec958107f318a57f0bc0850b627aa20ff07d1b5f21fdffe35.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/excanvas.min-001a5ecdb6f4e1c8597520791cb76a2a594e9ff7ff2ca4e99f0315f558bd49a2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot.tooltip/js/excanvas.min-8333156453748c86a05b61ab2e3b302a6e0460a619cf8c2250ef50a20020c481.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/pagination/extjs-7861906ed1a0323b7362c53744e2a692cd4515fb5d6b882e8fe5db2408c019c1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/type-detection/file-size-4bc37ac8ae068038dfb7450d373d496c3f9ddf0c46a73f7e1d4c75e76d347f6d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/file-size-867f1b28cffd94ee80275694200345ef8732954dccce3788a5160c1a989d4e3e.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot-data-97fcd521789b99f22f899d15f61dece2983a7b01f733163c79ba5f15edf294e5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnAddDataAndDisplay-330a2197b5bc8722d5fe4ced17496560237f77de1cb5d0a2088a368be6d0a0ac.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnAddTr-34e3b456ef85398364a7d5d1151637597e43345e706a057d05b2014d060829f0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnColumnIndexToVisible-2ab3b2dd9423212d29fbee20905b2794d741efb7652a4106f8919689d522d6d5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnDataUpdate-42b1a57be1ebe1a4e277f1c105d59461139b30578b8bee3e7000f02aefb957e8.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnDisplayRow-42ec9b743b5599d54a0626da9d41d4cb3ddea1d0145493c8630545a92e296557.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnDisplayStart-e79eb8833b02d2598222394c1b5fed7c3c597c2022c6ba1a4889e6d23718ceed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnFakeRowspan-2f9e415da56b74baa86b50694c87a345f11b8de2080f508d2a83f78b20d82b04.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnFilterAll-2e7e652b7842661a755fdd1f820f9a5653b2a0aac249a99d550c38a0ee71c7da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnFilterClear-a4bd4fc7c39aeda5c77d5a03f436624527ecbd7f5ae43acc5dffa0a3d5f74472.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnFilterOnReturn-c40ff5784b702c1a6882273eb01aed501f89d3c51e05cc6c958cbcd1e6c36bfa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnFindCellRowIndexes-d558649f173cc5690d39ff180c2e55d59e1e80f165cb6567e778f763782ea2c0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnFindCellRowNodes-18c1f2ac412d2003a2330f8d993389053f96c94be22edb294381160666aa14c3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnGetAdjacentTr-ef5e3bdf06564e7365b3f9a35e6f307a1d3537a766843224fe54d5828706e620.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnGetColumnData-90d2a6a6d4b172b4f572905e2e76028150e7bb05643f69b522631d11b93fb866.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnGetColumnIndex-af3d5448a8d8dbb09a010113c9d2f738f3b23b06d6ab8624c641f12b8b782a45.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnGetHiddenNodes-306a9eddd82362d52b858f2b3ce3af5418f6237ac395ba1cd26c6090ac331a35.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnGetTd-d561359cdc79799e008ec738b1fdf87badbb883b0a05c0da5f5954daa219cc75.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnGetTds-1a1565d73ef6676f6da06fff6f4a2d8e1f2155d34e5d1e22b0c99341e7bc8870.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnLengthChange-10c7fa07cd5215e631ef0af2c314fb4e836885239438ea3f43ecd4ec46f6b6b6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnMultiFilter-55b7a2b1c106c0d0ff41d3a2b57f5b32fbd82c1f587a94e6a5b87d3f600820b2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnPagingInfo-72b64861c744da374947679816181a8945fcafae3943d397229ed61b8426e462.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnProcessingIndicator-c2070e50b87da6291eb4278e54661ab9d9235cee8858da119983396496bbb3ef.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnReloadAjax-ee80dbbb7741ddd76d5888e176814b19dd443541d82ea141488ba2a8db1725dd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnSetFilteringDelay-99138da7d4f6d42fa421af099fc4c13e68222cc533fca703c2bfdebd12c5d0f1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnSortNeutral-01354950cd65bb1ee1518f8785604933cb9e8d81f1ac1ee0904bd318c16a642d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnStandingRedraw-72a240238d929e8290a84acb96cf99230b9699c624116753d31838739dc4f317.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/fnVisibleToColumnIndex-532a414173d0583b9339cc905b0a163c9d92c4c26c1f69d273e7570d3f102019.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/font-awesome/css/font-awesome-6f1908afdf6ddbd68274411f01f587b395c1907465fccc1c9d495e5ddbf17cbb.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/font-awesome/css/font-awesome.min-bc643228a7bd19950c6c4de35b778d602a7d3fb0781b959e07998fcb5ba0819f.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fontawesome-webfont-d5b5636ebb2e124810436200086b74a60dff9e8a8be7f4a1088bf5d3458bc3c8.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/font-awesome/fonts/fontawesome-webfont-d5b5636ebb2e124810436200086b74a60dff9e8a8be7f4a1088bf5d3458bc3c8.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/type-detection/formatted-num-865684082ee31af111e2a4f6d01f33b5e8944317b52847c92b104a0ddc19df97.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/formatted-numbers-eb8f9269df72f7436f8e962bb4a55329da0447e777875795ede546362825c5b3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/pagination/four_button-99297acb85bf9b1a028b9e8ced0adab19cd270bfe15b7dedf015ce1a6ea7cfa4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/css/var/getStyles-d82df26b2c73394850f2971cebd901ef97e6107224058c3ae47b1efd219b1cbf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/exports/global-65510c330d2c22614fb655241d5aae54731bdcf7b13077ed3817c7305610bc19.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/dist/fonts/glyphicons-halflings-regular-42f60659d265c1a3c30f9fa42abcbb56bd4a53af4d83d316d6dd7a36903c43e5.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/fonts/glyphicons-halflings-regular-42f60659d265c1a3c30f9fa42abcbb56bd4a53af4d83d316d6dd7a36903c43e5.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/holderjs/gulpfile-81fffb8503094983335a91b4f788a0f4795fe52ca46fe7dd3b9746f50acd7dd4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/css/hiddenVisibleSelectors-f583cea9437fbbe6f2574ed7f48ec796b12832f72bcdd678228891d1e304ef6d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/holderjs/holder-a111942132b5b0d0e213377b2dcdc1b9971541b0567fc8ebd27b95f078f697bf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/holderjs/src/holder-defafbf15151e8a3185a1b88aea21a9f62933668210064ccc87d2ec3cd1b72f4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/filtering/type-based/html-50c908715c5e57611ec1adf58c5598d6d69a5d55ea4a713983f684709480bfec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/core/init-b99297cea80dcdec3b8855becf887fcde976fb0a38929b8b826d65f82dc57f75.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/pagination/input-525fc226710e1aaf52817bfff7c405e3c9ac345bf62f0028d565f32698d77f5d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/type-detection/ip-address-08c43f4c4a1b4bd654e375306c4d31fb4cfa3600d68c2ed55c24af4e55d47b7d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/ip-address-1b4cfa0a75d72705b446a13764db970963b32a0f41a4aab46192da86cca7b71c.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/css/var/isHidden-629a3f2ffba6b50061e93c10cec8e9479e8af2be12b9d6b96984869714227584.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jobs-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/js/jquery-76adb05544964d7c4d63b0421917cf62ed81324be9cd4e3e8e448300e9347428.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/jquery-9d54c90e03842f644a6807d6d4167267cc39e524271090fdccba7da85e2f5892.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/dist/jquery-fc1a69c658d9bd5ae67f3d972112dda20f413076c7f9a3771b07fc18ade1819e.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/examples/shared/jquery-ui/jquery-ui.min-d6be8560b55ab33635c7eca362f8be282fcc03170412c7961a7f7c31006c2725.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/examples/shared/jquery-ui/jquery-ui.min-dadcd961c225329b6a381873d33e6917ab300817787fa5c97d114583d60aeb00.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/jquery.colorhelpers-68a577d22a511e55fa5344eb845a566e06f665be80bcebad356c534d1ddc227f.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/css/jquery.dataTables-e2f03f42f8f7711a335dbb1ab957a6cec6c605d2920f8195b1569a323613b919.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/js/jquery.dataTables-fba6d414529bead25866363b6d891fcb86fcce62f8818317c43f01d6c1c92ddf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/js/jquery.dataTables.min-bb34a950ffeb459b88730ba9aa1753fae5cd38e765dc93624c46dde1f4673165.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/css/jquery.dataTables.min-e2f03f42f8f7711a335dbb1ab957a6cec6c605d2920f8195b1569a323613b919.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables/media/css/jquery.dataTables_themeroller-611504ecb9407891fce70a95f3467a016e26b9f6bb06d5f356aef5d6a387abfb.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/jquery.flot-e64217b9e89c887000df907806000cb08d0575eddf5aa6410262bb7197d854cb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot.tooltip/js/jquery.flot-e64217b9e89c887000df907806000cb08d0575eddf5aa6410262bb7197d854cb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/jquery.flot.canvas-8e0a1ef59a9ebac8ba79fc62103388f2d4285937b093f65565b33c138801f551.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/jquery.flot.categories-59d06705c3d0fb58f3ce46bf6fcf9df8d0cfcb31f1c42246e9af4cde00aa5771.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/jquery.flot.crosshair-725dd38d7639c8ab65a5d7aac2135c6217be45331e9334e1fe3ba1be13c1431d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/jquery.flot.errorbars-ecf91792d2e636f3e18143a31859f27fe34359fe8bcbb5e3b7de358407ff3009.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/jquery.flot.fillbetween-02fcaec27a9e9024931919217b9156a63807b2082cf76c799e6faaec8e5d4c22.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/jquery.flot.image-c690607597481a66290f5fe4379a98f20ee2f5d045d5aff30dc08ca77e928d20.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/jquery.flot.navigate-8036e904081bf2b4399d4dd55cfa8cfa58ed16d721061824f390f2bbeb2ae169.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/jquery.flot.pie-dcbdffa8cc0707a0eb86d309b014ccf1fdad110a3adc7e4de6c097a816136418.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/jquery.flot.resize-5dbcd8169ff194227420dfdb9c1d5deee6b249d30d38ca8a9af3eeef5b1c7236.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/jquery.flot.selection-0b0ffbb036967cda74654ba8eb694e118d354ebf9f3510c163b3465f5d2b3136.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/jquery.flot.stack-72c11b8905fedcff30bcb00148092bc1657ced6bab1afa6d6d887c066e4bfd0d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/jquery.flot.symbol-907d1ce3b427b4e1335cf7339c613f8a35e2682205469fa13bc7ec1f92ae8049.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/jquery.flot.threshold-12d939963ef7af22f75a43e2c4e0449509a3549c0ed8d8d779a49de048d38b37.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot/jquery.flot.time-975c3b0c621df8c1db3a46f40305d708c1414e29a44e3f820d027f9d09df081c.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot.tooltip/js/jquery.flot.tooltip-3e68460a4a0bc47917c7502fe437916972d3e3888e23816a64f86df7a367ff64.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flot.tooltip/js/jquery.flot.tooltip.min-8aa8abfc9221f8c7598ae2634aa45049e29986089e3a8d6edf1a7be4aa33bf71.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/dist/jquery.min-8133843eadf88d20841812250fd81944957760a8e817e53e3b86c0acd3f6d2e0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/ajax/jsonp-efa7bde39ce67c6ab28d4fc3e391d38f357e1a6804ebf1088d788f75d7cab37e.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/ajax/load-592d84ebf216f729169a504c7558b5ed03889d91c41978408c2cab86988f60dd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/mocha/media/logo-14ed9b1fbcba665fa6a93dba64745e7abbc30351c18865d78011e21a3351d438.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/js/modal-69dc463f990a3aaac97f86fed28e61e1ebb0f9e21f03b9433e423d8fb80255d6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/monthYear-24111cf953e915f77ff441b4ca38cd1a7dc9b839599bbf292493d79a54c7c676.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/morris-data-de93ad43ab11df6bedaf53a2c36903a992ca288c6c7c10714222d7c64bf7e7b4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/natural-1b9015a8c077fd33a3ba1eead7ebac89f55f2963331b49b5175d63cd7fc4bf44.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/ajax/var/nonce-276f685ba2ab75d623802acfc69d6af8f6bb7a2f6ed3e5655759479e938c7c9c.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/dist/js/npm-38801d164db67163872f750858ce5f52ab1aa52ee4050f6639486e4c5a236272.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/type-detection/num-html-aab1435d66eb6ed2c5c4ec4c8489e6e2fae29eb7b160eb99564ea79a2ed155a9.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/num-html-be81094b7232ec0c63e1cd9572c63d34fbe3d6c1ac8f681634d402548345bf22.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/type-detection/numeric-comma-2c4bd9e741ca18fcb64468df92ab4ec3acce14625fb72df1066f8556e7c6da1f.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/numeric-comma-ecc244d2339be53786edd9e787365d20b01185e5b34f725648f23ad385b0114a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/holderjs/src/ondomready-017e1e724281e5b7fdf5d687893380d970c42ea4782bb1675d81bb03112f3582.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/package-47e39f603dc059a169c4ce5df1f0885150393d50d0752e8fa3a9459f17190b78.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/page.jumpToData()-077b71a9f8c3b0f8a2b214397e8ff10b2945c48f061d0cf192a1af726022b615.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/core/parseHTML-b05e81077836318d737b24bf215e1575df0290511a63c5a463066e0e738a137e.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/ajax/parseJSON-77976ecaaa76e61dcb2a66d6f3bcc44367517af218f8d12da2934fabfd2ced35.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/ajax/parseXML-f30af4104f3004ca12568dd9e78fac3de779197e5b398ee8a4cee2bafca22ccd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/percent-d37f57e8337e85c2ebf2e32f6c6ccb234cb4a039068ceeef9220397f8ef3a390.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/persian-0614e82aea1810d3fe15c4895b07d17d520a8cd3861eb8ec8654e023a76f8d2a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/filtering/type-based/phoneNumber-c631db4d2bfd48d2696f95fa9bfa6e9154a2125f4ef055ff5824a99bcb672e37.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/holderjs/src/polyfills-7addbd822668d53e11731b7a1803dc283b4e4f920017af1f7e36d57c78111dff.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/js/popover-83a40724744d9de4ac38fc76d666468ed3581ff4274349cead1074358a0ad190.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/attributes/prop-f05862fb6045f581e18e2446c7afde2685b263f6c47fd9c55bbc320ebdccb761.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/filtering/row-based/range_dates-d16bcb766f8f9634d5fea238322ccff4dbc1a27c2971704355ae7ebca6238470.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/filtering/row-based/range_numbers-d4313d4167ecb8bca411db0821720025a080473e49e58f61bcf760eb33684ced.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/core/ready-660cbfa808939619df7fb8ffd21dbe24122b99a7d248a281cd91fbdf97e0ac27.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-responsive/css/responsive.bootstrap-169f9b8202ce5b47e301c3db20176b86455ff633822d47f12626e99708bba2fb.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-responsive/css/responsive.dataTables-e818b76d1bc431622bc415576b367a1d0b0e88d4f11341ca64b5c1f68129bc0f.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-responsive/css/responsive.foundation-5b40ba8bf1bcd6e3a7ce538b6c011f08b53022a78b3d27d3bae76816179bee1d.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-responsive/css/responsive.jqueryui-e818b76d1bc431622bc415576b367a1d0b0e88d4f11341ca64b5c1f68129bc0f.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/css/var/rmargin-bd801a0336d813ba4919f3dbc042e63dad55fbbb46aeb97cba04838a3fcddf68.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/css/var/rnumnonpx-14ce6b0f3f286bc9757be6cc5583bc57472c74cba4d99fa46c5b5bcec8b5eb1f.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/ajax/var/rquery-1a78c305c432f707cd9938047b410ac1d428383dbf6c49d8dc2f7ac10832f971.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/core/var/rsingleTag-4e429b21fc24b41df8b031114174da23ef65847684f8a24397d9fc5112b6a18f.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/sb-admin-2-43732313c361858464c0105e2d61f74f59e2fd9ded36d9aaa9de8960d7e77f64.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/sb-admin-2-6e37dbc10c36ba62ee7c1e558cbefeabf30dc6b641216ee505a603d7fdbbb9fd.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/scientific-398f4e203f2659b18b85ad77fad291469572e45a25c5d1b274425701daee1a0e.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/ajax/script-f182337e6d15dd412ede3ee9e0b6b5f16f47472796aac3dac68c561e3a49adf6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/pagination/scrolling-cf6e1e684a34bb5175e9a1d0dcc8f8e4c85a1306746bdef05926e2d9e299af80.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/js/scrollspy-5d90a0a9d052878f2670d479fc5c5c4bd41aeeb126ac14b46f9c725155277a52.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/pagination/select-4f1bbd6f6fc0f0d59b73e03fcc477a4cd4ddf6f52e4426e4175d6fbde2214206.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/signed-num-56e055a0a0c3402e034523172268684ceafefc3f49edc4e1af0b2a269cb084cb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/stringMonthYear-7644587ab9f50c2e3f45048dc9806c9311165627903a65f269d126f3477c66bd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/api/sum()-940bd603b093d7966d1ea72cc0b09d8e5898c6100143a8986fbe314cb15db472.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/css/support-48b1d75cf42515752ed66e4ac925f05e03724bb529ae045fe89bbd98a6d42504.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/attributes/support-89ccbe0c0ab1bd81bd388b62b3fbba5a15951a6ec9cc8868909a839d84cf90b4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/event/support-daa617c93122253d98683db4f831c1865655a3dd325522d05c5dad5c836a3701.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/css/swap-4f3552f6ccfb1d1059819988d9de2e53a36c7cfe0e1410f639a43631ae94be79.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/js/tab-c46947e9da4c0522b32adf2574a671ac305c8add36c167e3a906123a7e8a0d16.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/time-d6b702235f4b0b76692aaba5e96b01656d0cf618ffce79e4ced4d74961751a14.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/timeline-0e3c3b69a05714b3e95e33fe0cac717530bf3e139ddb75011772bc8d78854e77.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/title-numeric-070398d631d090278029988bce893389cec763057954345611d67808ef74f690.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/title-string-c9d3f882806a5722f27aefa2e67b3e47de67d848676922eca7d4dbc86d128c0a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/js/tooltip-9e89b261d024ddb23d20a2de9192551e99087aa5eb1c07a390341cb68247e65e.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/js/transition-3193af2c4a4a4ec80f61a6ce4f5d26f35bdd628073332f4158c18f54b63e57de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datatables-plugins/sorting/turkish-string-aa33dc59df316e5a0fd2eebf9088ebdadb67fc11fe8dfcdebedac96aa712a64a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/attributes/val-c395b47df38350adef31d5d8a88b32a7f12e9d066144f31b2e637a021a6cefc2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery/src/ajax/xhr-fa4c3c00ed443c90ca9e49b38059733a9a584db0ca30d417bbd42421d5b8c7f8.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/users/JudyDDouglass/JudyDDouglass_QPXp9BC33SXaBdwhmDOsZw.idml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/users/delanyo/delanyo_hsxl5k8vAoTCWIfKrGhgqQ.idml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/users/eli/eli_o-TiUnX9hZzI1dvH-hD9yQ.idml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/users/elikem/elikem_EJIeMIsoIIQBOYXJVTjd2w.idml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/users/gailporter/gailporter_snZsqJsN-yqRGdo9XeAkxg.idml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/users/ken_heckmann/ken_heckmann_XJAOcJd5Sjmf093zFkXn5g.idml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -318,7 +26,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/my-story-booklet-client@Development__my_story_booklet_client.coverage" NAME="Development: my-story-booklet-client Coverage Results" MODIFIED="1441430900974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my-story-booklet-client" />
+    <SUITE FILE_PATH="coverage/my-story-booklet-client@Development__my_story_booklet_client.coverage" NAME="Development: my-story-booklet-client Coverage Results" MODIFIED="1441828327918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my-story-booklet-client" />
     <SUITE FILE_PATH="coverage/my-story-booklet-client@Production__my_story_booklet_client.coverage" NAME="Production: my-story-booklet-client Coverage Results" MODIFIED="1441430760130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my-story-booklet-client" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -335,68 +43,115 @@
         <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
       </PATH_ELEMENT>
     </PATH>
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="Rails my-story-booklet-client: development" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="my-story-booklet-client-dev.public" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-    </PATH>
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="Rails my-story-booklet-client: development" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-    </PATH>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="my-story-booklet-client" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="application.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3984064">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/application.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="vertical" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="in_design.rb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lib/in_design.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="store.rb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lib/store.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+                  <folding>
+                    <marker date="1441828547000" expanded="true" signature="783:1015" placeholder="if ... end" />
+                    <marker date="1441828547000" expanded="true" signature="906:998" placeholder="do ... end" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.50159234">
+                  <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="jobs_controller.rb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/controllers/jobs_controller.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="development.rb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="44" column="33" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="33" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="in_design.rb" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/lib/in_design.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.57233703">
+                  <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="server.rb" pinned="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/thin-1.5.1/lib/thin/server.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="160" column="24" selection-start-line="160" selection-start-column="24" selection-end-line="160" selection-end-column="24" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="processing.rake" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lib/tasks/processing.rake">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="schedule.rb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/config/schedule.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -425,10 +180,8 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/jobs/index.html" />
         <option value="$PROJECT_DIR$/app/views/_navigation.html.erb" />
-        <option value="$PROJECT_DIR$/lib/parse.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20150830184636_remove_binary_file.rb" />
         <option value="$PROJECT_DIR$/db/schema.rb" />
-        <option value="$PROJECT_DIR$/lib/store.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20150901025336_rename_idml_status_to_pdf.rb" />
         <option value="$PROJECT_DIR$/lib/tasks/process_next_pdf_job.rb" />
         <option value="$PROJECT_DIR$/lib/tasks/process_next_pdf_job.rake" />
@@ -451,6 +204,8 @@
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
         <option value="$PROJECT_DIR$/app/views/_side_navigation.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.scss" />
+        <option value="$PROJECT_DIR$/lib/parse.rb" />
+        <option value="$PROJECT_DIR$/lib/store.rb" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -471,8 +226,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="873" />
+    <option name="width" value="1280" />
+    <option name="height" value="1413" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -527,11 +282,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -545,71 +296,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-story-booklet-client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-story-booklet-client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="font-awesome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-story-booklet-client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-story-booklet-client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="font-awesome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fonts" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -843,25 +530,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="1413" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853898" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28969958" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.368758" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Routes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28917608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3679031" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Routes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -992,29 +679,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/6db231a2/b073de6c-8e6e-4241-b0c1-040e1503bccf/my-story-booklet-client-dev.public.jobs">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/assets/bower_components/datatables-plugins/api/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/parse.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0996016">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -1032,13 +700,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/schema.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49800798">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/mailer/send_pdf_to_user.text.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24691358">
@@ -1053,20 +714,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/job.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07968128">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/store.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07968128">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/mailers/mailer.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1078,13 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/schedule.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38709676">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1109,38 +749,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84063745">
-          <caret line="44" column="50" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/jobs_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.01992032">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/tasks/processing.rake">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.059760958">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/slack-notifier.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="116" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/whenever.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13907285">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1159,14 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.061728396">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/production.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1192,7 +796,7 @@
         <state vertical-scroll-proportion="-7.5">
           <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
           <folding>
-            <element signature="n#style#0;n#nav#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#nav#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1201,14 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20576131">
           <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52191234">
-          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -1229,34 +825,149 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/in_design.rb">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7410359">
-          <caret line="87" column="62" selection-start-line="87" selection-start-column="62" selection-end-line="87" selection-end-column="62" />
+        <state vertical-scroll-proportion="0.16460906">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.49800798">
           <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
+    <entry file="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/thin-1.5.1/lib/thin/server.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="160" column="24" selection-start-line="160" selection-start-column="24" selection-end-line="160" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/whenever.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16693164">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="33" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/production.log">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7372612">
+          <caret line="84" column="56" selection-start-line="84" selection-start-column="56" selection-end-line="84" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/parse.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26232114">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/schedule.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tasks/processing.rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/schema.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59713376">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/in_design.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/job.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.477707">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/6db231a2/b073de6c-8e6e-4241-b0c1-040e1503bccf/my-story-booklet-client-dev.public.jobs">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/jobs_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/store.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding>
+            <marker date="1441828547000" expanded="true" signature="783:1015" placeholder="if ... end" />
+            <marker date="1441828547000" expanded="true" signature="906:998" placeholder="do ... end" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3984064">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.50159234">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding />
         </state>
       </provider>
