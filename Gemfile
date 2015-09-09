@@ -15,7 +15,7 @@ gem 'awesome_print'
 gem 'foreman'
 gem 'bower-rails'
 gem 'httparty'
-gem 'thin'
+gem 'passenger'
 gem 'chronic_duration'
 gem 'slack-notifier'
 

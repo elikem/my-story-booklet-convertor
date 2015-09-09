@@ -85,7 +85,7 @@ class InDesign
     puts message
     puts ''
 
-    get_published_stories = system('curl http://localhost/jobs/get_published_stories')
+    get_published_stories = system('curl http://localhost:3000/jobs/get_published_stories')
     if get_published_stories
       SLACK_NOTIFIER.ping message
     end

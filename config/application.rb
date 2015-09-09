@@ -23,8 +23,14 @@ module MyStoryBookletClient
     # Do not swallow errors in after_commit/after_rollback callbacks.
     config.active_record.raise_in_transactional_callbacks = true
 
+    # Add bower components to pipeline
     config.assets.paths << Rails.root.join('vendor','assets','bower_components')
 
+    # Autoload lib
     config.autoload_paths += %W(#{config.root}/lib)
+
+    # Add images/fonts to the pipeline
+    config.assets.precompile += %w(*.png *.jpg *.jpeg *.gif)
+    config.assets.precompile += %w(*.ttf *.woff *.svg *.eot)
   end
 end
