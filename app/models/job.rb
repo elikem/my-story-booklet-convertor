@@ -15,6 +15,12 @@
 #
 
 class Job < ActiveRecord::Base
+  after_create :notify_slack
+
   validates_uniqueness_of :publication_id
   validates_presence_of :publication_id
+
+  def notify_slack
+    SLACK_NOTIFIER.ping "#{Time.zone.now.localtime.strftime('%Y-%m-%d %H:%M:%S')} -- Job created for #{self.username}"
+  end
 end

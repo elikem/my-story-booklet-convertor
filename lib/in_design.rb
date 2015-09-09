@@ -23,11 +23,11 @@ class InDesign
           job.pdf_status = true
           job.save
 
-          message = "#{Time.zone.now.localtime.strftime('%Y-%m-%d %H:%M:%S')} -- Processed PDF Job ##{job.id}"
+          message = "#{Time.zone.now.localtime.strftime('%Y-%m-%d %H:%M:%S')} -- Created PDF for #{job.username}"
           puts message
           SLACK_NOTIFIER.ping message
         else
-          message = "#{Time.zone.now.localtime.strftime('%Y-%m-%d %H:%M:%S')} -- Failed PDF Job ##{job_id}"
+          message = "#{Time.zone.now.localtime.strftime('%Y-%m-%d %H:%M:%S')} -- Failed PDF Job for #{job.username}"
           SLACK_NOTIFIER.ping message
           abort message
         end
@@ -56,7 +56,7 @@ class InDesign
       job.email_status = true
       job.save
 
-      message = "#{Time.zone.now.localtime} -- Emailed PDF Job ##{job.id} to #{job.username}"
+      message = "#{Time.zone.now.localtime} -- Emailed PDF to #{job.username}"
       puts message
       SLACK_NOTIFIER.ping message
     end
