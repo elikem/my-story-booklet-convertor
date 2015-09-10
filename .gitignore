@@ -16,7 +16,6 @@
 !/log/.keep
 /tmp
 
-.idea
-storage
-public/assets
-storage/users
+.idea/
+storage/
+public/assets/
