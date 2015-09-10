@@ -22,9 +22,13 @@ class Store
     FileUtils.mkdir_p "#{users_folder}/#{username}"
 
     # download file if it does not exist
-    if File.exists? "#{users_folder}/#{username}/#{username}_#{publication_id}.idml"
-      puts 'File already exists.'
-    else
+    unless File.exists? "#{users_folder}/#{username}/#{username}_#{publication_id}.idml"
+      # if files don't exist for a record that does then update that record and add new files
+      job = Job.where(publication_id: publication_id).first
+      if job
+        job.update(email_status: false, pdf_status: false)
+      end
+
       puts 'File does not exist.'
       File.open("#{users_folder}/#{username}/#{username}_#{publication_id}.idml", 'wb') do |f|
         f.write(open("http://mystorybooklet.com/api/stories/#{username}/idml").read)
