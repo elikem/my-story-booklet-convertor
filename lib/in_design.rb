@@ -56,7 +56,7 @@ class InDesign
       job.email_status = true
       job.save
 
-      message = "#{Time.zone.now.localtime} -- Emailed PDF to #{job.username}"
+      message = "#{Time.zone.now.localtime.strftime('%Y-%m-%d %H:%M:%S')} -- Emailed PDF to #{job.username}"
       puts message
       SLACK_NOTIFIER.ping message
     end
@@ -80,7 +80,7 @@ class InDesign
   end
 
   def self.get_processed_jobs
-    message = "#{Time.zone.now.localtime} -- Checking for processed jobs"
+    message = "#{Time.zone.now.localtime.strftime('%Y-%m-%d %H:%M:%S')} -- Checking for processed jobs"
     puts ''
     puts message
     puts ''
