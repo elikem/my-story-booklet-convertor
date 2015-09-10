@@ -63,7 +63,8 @@ class InDesign
   end
 
   def self.process_next_email_job
-    job = Job.where(email_status: false).order(created_at: :asc).first
+    # Find a job where the pdf file exits
+    job = Job.where('email_status = ? and pdf_status = ?', false, true).order(created_at: :asc).first
 
     if job
       InDesign.new.pdf_to_email(job.id)
