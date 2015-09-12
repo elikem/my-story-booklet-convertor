@@ -29,6 +29,12 @@ class InDesign
         else
           message = "#{Time.zone.now.localtime.strftime('%Y-%m-%d %H:%M:%S')} -- Failed PDF Job for #{job.username}"
           SLACK_NOTIFIER.ping message
+
+          # Delete job and file as a result of failure, its possible that the file is corrupt
+          job.destroy
+          system("rm #{user_file}")
+
+          # Exit with message
           abort message
         end
       end
