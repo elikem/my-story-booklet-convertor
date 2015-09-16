@@ -20,6 +20,7 @@ class Store
   def create_user_folder_and_file(username, publication_id)
     # check if user folder exists and create if it doesn't
     FileUtils.mkdir_p "#{users_folder}/#{username}"
+    system("cp -R #{Rails.root}/lib/assets/Links #{users_folder}/#{username}")
 
     # download file if it does not exist
     unless File.exists? "#{users_folder}/#{username}/#{username}_#{publication_id}.idml"
