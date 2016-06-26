@@ -21,7 +21,7 @@
 
 set :output, "#{Whenever.path}/log/whenever.log"
 
-every 1.minute do
+every 2.minute do
   rake "process:next_pdf"
 end
 
@@ -30,11 +30,11 @@ every 1.minute do
 end
 
 every 5.minute do
-  rake "process:find_processed_jobs"
+  rake "process:process_published_stories"
 end
 
 every 5.minute do
-  rake "process:get_processed_jobs"
+  rake "process:update_status_of_emailed_and_pdfed_jobs"
 end
 
 every 2.weeks do
