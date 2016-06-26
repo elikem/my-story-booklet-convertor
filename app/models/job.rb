@@ -61,7 +61,7 @@ class Job < ActiveRecord::Base
     job = Job.where('email_status = ? and pdf_status = ?', false, true).order(created_at: :asc).first
 
     if job
-      Job.pdf_to_email(job.id)
+      pdf_to_email(job.id)
     end
   end
 
@@ -69,7 +69,7 @@ class Job < ActiveRecord::Base
     job = Job.where(pdf_status: false).order(created_at: :asc).first
 
     if job
-      Job.idml_to_pdf(job.id)
+      idml_to_pdf(job.id)
     end
   end
 
@@ -137,9 +137,6 @@ class Job < ActiveRecord::Base
   end
 
   def create_user_folder_and_file(username, publication_id)
-    puts username
-    puts publication_id
-
     # check if user folder exists and create if it doesn't
     FileUtils.mkdir_p "#{users_folder}/#{username}"
     system("cp -R #{Rails.root}/lib/assets/Links #{users_folder}/#{username}")
