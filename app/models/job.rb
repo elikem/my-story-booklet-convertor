@@ -38,7 +38,7 @@ class Job < ActiveRecord::Base
     puts message
     puts ''
 
-    get_published_stories = HTTParty.get('http://mystorybooklet.com//api/published_stories')
+    get_published_stories = HTTParty.get('http://www.mystorybooklet.com//api/published_stories')
 
     unless get_published_stories
       SLACK_NOTIFIER.ping 'Unable to reach server for new jobs'
@@ -133,7 +133,7 @@ class Job < ActiveRecord::Base
 
   # HTTParty.get('http://example.com', headers: {"User-Agent" => APPLICATION_NAME})
   def story_for_idml(username)
-    HTTParty.get("http://mystorybooklet.com//api/stories/#{username}/idml")
+    HTTParty.get("http://www.mystorybooklet.com//api/stories/#{username}/idml")
   end
 
   def create_user_folder_and_file(username, publication_id)
