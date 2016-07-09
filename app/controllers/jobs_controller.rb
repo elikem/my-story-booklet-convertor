@@ -6,7 +6,7 @@ class JobsController < ApplicationController
   end
 
   def get_published_stories
-    stories = Store.published_stories
+    stories = Job.new.get_published_jobs_from_api
     render json: stories
   end
 

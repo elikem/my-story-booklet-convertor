@@ -16,4 +16,4 @@ test:
 
 production:
   <<: *default
-  database: my-story-booklet
+  database: my-story-booklet-client
